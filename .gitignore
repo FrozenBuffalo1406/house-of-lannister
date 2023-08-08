@@ -1,4 +1,5 @@
-*.vscode
+*.vscode/
+*explanation
 # Prerequisites
 *.d
 
