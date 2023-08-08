@@ -1,4 +1,4 @@
-<h1> House of lannister Repository</h1>
+<h1>House of lannister Repository</h1>
 
 This Repo contains all of member's submission from competitive programming problem with code:</br>
 CodeForce = cf</br>
