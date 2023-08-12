@@ -3,7 +3,7 @@
 # Prerequisites
 *.d
 
-*/tempCodeRunnerFile
+*tempCodeRunnerFile
 # Compiled Object files
 *.slo
 *.lo
